@@ -13,3 +13,7 @@ Ler, pintar e jogar
 # Animes
 
 One Piece e Jojo <3
+
+# Minha idade
+
+17 anos
